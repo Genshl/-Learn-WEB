@@ -1,0 +1,94 @@
+.fon {
+    
+    background-color: #eeeeeed5;
+}
+.fon {
+    border-left: 2px solid #0f0f0f;
+    margin-left: 220px;
+    padding-left: 20px;
+
+}
+.imgcentr{
+    background: #99a3cf;
+    margin: 3px;
+    padding: 4px;
+    width: 100%;
+    height: 4%; /* Ширина элемента в пикселах */
+    padding: 6px; /* Поля вокруг текста */
+    margin: auto; /* Выравниваем по центру */
+    text-align: center;
+}
+.imgcen{
+    background: #99a3cf;
+    margin: 110px;
+    padding: 4px;
+    width: 100%;
+    height: 5%;
+    margin: auto;
+    text-align: center;
+    float: left;
+}
+.leftimg {
+    width: 48%; /* Ширина таблицы */
+    height: 50px; /* vusota tabluci */
+    background: rgb(255, 255, 255); /* Цвет фона таблицы */
+    float: left;
+
+}
+.imgrecht{
+    width: 300px; /* Ширина таблицы */
+    height: 1000px; /* vusota tabluci */
+    background: white; /* Цвет фона таблицы */
+    border: 2px solid #0f0f0f;/* Расстояние между ячейками i kolyar*/    
+    float: right; /* Выравнивание по правому краю  */ 
+    margin: 7px 0 7px 7px; /* Отступы вокруг картинки */
+}   
+.rehtimg {
+    float: right; 
+    width: 50%; /* Ширина таблицы */
+    height: 100px; /* vusota tabluci */
+    background: rgb(255, 255, 255); /* Цвет фона таблицы */
+
+}
+.syjet{
+    width: 300px; /* Ширина таблицы */
+    height: 500px; /* vusota tabluci */
+    background: white; /* Цвет фона таблицы */
+    border: 2px solid #0f0f0f;/* Расстояние между ячейками i kolyar*/    
+    
+    /* background-color: rgb(230, 230, 230);
+    border-left: 2px solid #0f0f0f;
+    margin-left: 10px;
+    padding-left: 10px;
+    border-right: 2px solid #0f0f0f;
+    margin-right: 450px;
+    padding-right: 10px;
+    border-top: 2px solid #0f0f0f;
+    margin-top: 10px;
+    padding-top: 10px;
+    border-bottom: 2px solid #0f0f0f;
+    margin-bottom: 10px;
+    padding-bottom: 10px; */
+}
+.images {
+    width: 600px;
+    text-align: center; /* Выравнивание по центру */ 
+
+}
+h1 {
+    color: #ff00ff;
+    text-align: left; 
+    
+}  
+h2 {
+    font-size: 30px;
+    font-style: italic;
+    
+}
+.bolt {
+    font-weight: 600;
+    color: rgba(255,20,147,0.8);
+}
+.bol {
+    font-weight: 700;
+}
